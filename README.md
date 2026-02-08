@@ -1,6 +1,6 @@
-# 📊 Mini Projeto – Análise do Mercado de Trabalho com Python
+# 📊 Miniprojeto – Análise do Mercado de Trabalho com Python
 
-Este repositório contém um **mini‑projeto de Ciência de Dados (nível iniciante)** utilizando **Python, NumPy e Pandas**. O objetivo é praticar leitura de dados, análise exploratória, estatísticas básicas e manipulação de DataFrames a partir de um dataset grande e realista.
+Este repositório contém um **miniprojeto de Ciência de Dados (nível iniciante)** utilizando **Python, NumPy e Pandas**. O objetivo é praticar leitura de dados, análise exploratória, estatísticas básicas e manipulação de DataFrames a partir de um dataset grande e realista.
 
 ---
 
