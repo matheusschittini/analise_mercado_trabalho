@@ -56,6 +56,7 @@ Arquivo: `dataset_trabalho.csv`
 * NumPy
 * Pandas
 * Jupyter Notebook
+* Google Colab
 
 ---
 
