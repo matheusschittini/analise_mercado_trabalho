@@ -103,9 +103,9 @@ pip install numpy pandas
 
 ## 👤 Autor
 
-Projeto desenvolvido para fins educacionais.
+Projeto desenvolvido por Matheus Schittini Morais da Costa para fins educacionais.
 
-Se você estiver estudando Ciência de Dados, fique à vontade para **forkar**, modificar e expandir 🚀
+Se você estiver estudando Ciência de Dados, fique à vontade para **forkar**, modificar e expandir.
 
 ---
 
