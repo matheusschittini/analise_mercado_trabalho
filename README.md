@@ -12,8 +12,6 @@ Explorar e analisar um dataset fictício sobre o mercado de trabalho, respondend
 * O nível de escolaridade impacta o salário?
 * Existe relação entre anos de experiência e remuneração?
 
-O foco é **aprendizado prático**, não modelagem avançada.
-
 ---
 
 ## 🧠 Conceitos Trabalhados
@@ -57,11 +55,11 @@ Arquivo: `dataset_trabalho.csv`
 * Python 3.x
 * NumPy
 * Pandas
-* Jupyter Notebook (opcional)
+* Jupyter Notebook
 
 ---
 
-## 📁 Estrutura do Repositório (sugestão)
+## 📁 Estrutura do Repositório
 
 ```
 mini-projeto-mercado-trabalho/
@@ -100,14 +98,6 @@ pip install numpy pandas
 ```
 
 3. Execute o notebook ou script Python.
-
----
-
-## 📌 Observações
-
-* Este projeto é voltado para **iniciantes**
-* Não há uso de machine learning
-* Ideal para portfólio inicial ou prática acadêmica
 
 ---
 
